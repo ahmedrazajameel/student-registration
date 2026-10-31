@@ -26,7 +26,16 @@ button {
     border: none;
     cursor: pointer;
 }
+
 table {
     background: white;
     border-collapse: collapse;
+}
+
+button:hover {
+    background: #1abc9c;
+}
+
+a:hover {
+    text-decoration: underline;
 }
